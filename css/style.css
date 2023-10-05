@@ -1,11 +1,4 @@
 
-@font-face {
-	font-family: Jura;
-	src: url(../fonts/Jura-Regular.eot);
-	src: url(../fonts/Jura-Regular.eot?#iefix) format('embedded-opentype'), url(../fonts/Jura-Regular.woff2) format('woff2'), url(../fonts/Jura-Regular.woff) format('woff'), url(../fonts/Jura-Regular.ttf) format('truetype'), url(../fonts/Jura-Regular.svg#svgFontName) format('svg');
-	font-weight: 400;
-	font-display: fallback;
-  }
 
 *{
 	padding: 0;
