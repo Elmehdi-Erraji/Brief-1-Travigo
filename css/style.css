@@ -25,17 +25,17 @@ body{
 
 
    
-.logo-1 {
+#logo-txt {
 	font-size: 34px;
 	position: relative;
-	bottom: 1px;
+	bottom: 14px;
 
 	}
 	.logo-img {
 	  width: 55px;
 	}
 	@media (max-width: 768px) {
-	.logo-1 {
+	#logo-txt {
 	  font-size: 22px;
 	}
 	.logo-img { 
