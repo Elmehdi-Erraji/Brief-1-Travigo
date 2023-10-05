@@ -27,6 +27,9 @@ body{
    
 .logo-1 {
 	font-size: 34px;
+	position: relative;
+	bottom: 1px;
+
 	}
 	.logo-img {
 	  width: 55px;
